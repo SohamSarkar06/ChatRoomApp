@@ -1,3 +1,5 @@
 // in git bash terminal
 npm install
 npm run dev
+
+//Open http://localhost:5173 in two different tabs or browsers to simulate two users chatting.
