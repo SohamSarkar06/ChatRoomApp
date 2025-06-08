@@ -1,0 +1,7 @@
+//to set up front end 
+//first get out of previous directory, if any
+//in git bash terminal 
+cd ..
+npm create vite@latest client -- --template react
+cd client
+npm install socket.io-client
