@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div style={{ padding: 20 }}>
-      <h2 style={{ textAlign: "center", color: "#333" }}>💬 Chatroom</h2>
+      <h2 style={{ textAlign: "center", color: "#333" }}>💬SAGA Chatroom</h2>
       <div
         style={{
           border: "1px solid gray",
