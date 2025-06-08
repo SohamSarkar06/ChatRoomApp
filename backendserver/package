@@ -1,0 +1,3 @@
+// in server folder git bash terminal(to set up the backend)
+npm init -y
+npm install express socket.io cors
